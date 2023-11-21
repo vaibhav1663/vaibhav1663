@@ -1,7 +1,7 @@
 	
 <h1 align="center">Hello, I'm Vaibhav Khating <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm a Third Year student studying Electrical Engineering at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
+I'm a Final Year student studying Electrical Engineering at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
 </h3>
 
 <h2 align="center">You can reach me at </h2>
