@@ -40,11 +40,3 @@ I'm a Final Year student studying Electrical Engineering at <a href="https://www
 	<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-<h2 align="center">Github stats :bar_chart:</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{vaibhav1663}/count.svg" alt="vaibhav1663 :: Visitor's Count" /></p>
-<h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1663&count_private=true&langs_count=10&theme=tokyonight&layout=compact" /></p>
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vaibhav1663&count_private=true&show_icons=true&theme=synthwave" /></p>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
